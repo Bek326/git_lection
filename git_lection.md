@@ -3,6 +3,7 @@ github - платформа для хранения git repositories и совм
 
 git init - инициализация git system
 git add filename/dirname - добавление изменений в список для сохранения (staging area)
-git status - сохранения версии (checkpoint)
-git commit - сохранение версии (checkpoint)
+git status - проверка статуса (checkpoint)
+git commit -m 'comment - сохранение версии (checkpoint)
 
+branch 
